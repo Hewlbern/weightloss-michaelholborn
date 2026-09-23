@@ -1,0 +1,340 @@
+{
+  "profile": {
+    "height_cm": 186,
+    "current_weight_kg": 100.05,
+    "goal_weight_kg": 78,
+    "maintain_kcal": 2740,
+    "lose_0_5_kg_wk_kcal": 2240,
+    "lose_1_kg_wk_kcal": 1740,
+    "protein_min_g": 140,
+    "sheet_daily_target_kcal": 1800,
+    "latest_weigh_in": "2026-09-20"
+  },
+  "days": [
+    {
+      "date": "2026-09-23",
+      "weight_kg": null,
+      "kcal": 800,
+      "keto": "mixed",
+      "items": [
+        {
+          "item": "aburi tamago mentai shrimp",
+          "kcal": 320,
+          "notes": "photo est"
+        },
+        {
+          "item": "salmon sashimi tray ~170g",
+          "kcal": 350,
+          "notes": "~208/100g"
+        },
+        {
+          "item": "white choc bullet bag",
+          "kcal": 130,
+          "notes": "usual ~50g bag assumed"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "weight_kg": null,
+      "kcal": 2180,
+      "keto": "mixed",
+      "items": [
+        {
+          "item": "eggs/meat",
+          "kcal": 400
+        },
+        {
+          "item": "3\u00d7 chocolate bullet bags",
+          "kcal": 390
+        },
+        {
+          "item": "VN pork bowl",
+          "kcal": 600,
+          "notes": "user stated"
+        },
+        {
+          "item": "cappuccino",
+          "kcal": 140
+        },
+        {
+          "item": "noodles+beef",
+          "kcal": 300,
+          "notes": "user stated"
+        },
+        {
+          "item": "keto ice cream tub",
+          "kcal": 350,
+          "notes": "Twisted-style est"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "weight_kg": null,
+      "kcal": null,
+      "keto": null,
+      "items": [],
+      "notes": "blank"
+    },
+    {
+      "date": "2026-09-20",
+      "weight_kg": 100.05,
+      "kcal": 0,
+      "keto": null,
+      "items": [],
+      "notes": "weigh-in only; flat vs 12 Sep"
+    },
+    {
+      "date": "2026-09-19",
+      "weight_kg": null,
+      "kcal": 450,
+      "keto": "mixed",
+      "items": [
+        {
+          "item": "blueberries ~125g",
+          "kcal": 71
+        },
+        {
+          "item": "protein bar",
+          "kcal": 314,
+          "notes": "Musashi-style assumed"
+        },
+        {
+          "item": "half bullet bag",
+          "kcal": 65
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "weight_kg": null,
+      "kcal": 109,
+      "keto": "yes",
+      "items": [
+        {
+          "item": "1 slice keto/lower-carb bread",
+          "kcal": 109,
+          "notes": "Helga's Lower Carb style"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "weight_kg": null,
+      "kcal": null,
+      "keto": null,
+      "items": [],
+      "notes": "blank"
+    },
+    {
+      "date": "2026-09-16",
+      "weight_kg": null,
+      "kcal": 2440,
+      "keto": "mixed",
+      "items": [
+        {
+          "item": "2 bullet bags",
+          "kcal": 260
+        },
+        {
+          "item": "Coles choc PB snack 300g",
+          "kcal": 1416,
+          "notes": "~472/100g est"
+        },
+        {
+          "item": "salmon 300g",
+          "kcal": 624
+        },
+        {
+          "item": "cappuccino",
+          "kcal": 140
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "weight_kg": null,
+      "kcal": 2096,
+      "keto": "mixed",
+      "items": [
+        {
+          "item": "sushi 150g",
+          "kcal": 240
+        },
+        {
+          "item": "egg snack 150g",
+          "kcal": 204
+        },
+        {
+          "item": "2 bullet bags",
+          "kcal": 260
+        },
+        {
+          "item": "protein bar",
+          "kcal": 314
+        },
+        {
+          "item": "Monster Zero",
+          "kcal": 12
+        },
+        {
+          "item": "2 more bullet bags",
+          "kcal": 260
+        },
+        {
+          "item": "McD 3/4 large fries",
+          "kcal": 292
+        },
+        {
+          "item": "2 McNuggets",
+          "kcal": 72
+        },
+        {
+          "item": "2 QP patties no bun",
+          "kcal": 440
+        },
+        {
+          "item": "large Coke Zero",
+          "kcal": 2
+        }
+      ],
+      "notes": "evening McD + morning extras; 4 bullet bags total"
+    },
+    {
+      "date": "2026-09-14",
+      "weight_kg": null,
+      "kcal": 1485,
+      "keto": "mixed",
+      "items": [
+        {
+          "item": "snacks (white-choc bullet + 2 PB snacks split)",
+          "kcal": 400
+        },
+        {
+          "item": "eggs/halloumi/guac",
+          "kcal": 435
+        },
+        {
+          "item": "evening ice cream/mince/keto spaghetti",
+          "kcal": 650,
+          "notes": "user stated"
+        }
+      ],
+      "notes": "approx from prior logs"
+    },
+    {
+      "date": "2026-09-13",
+      "weight_kg": null,
+      "kcal": 1986,
+      "keto": "mixed",
+      "items": [
+        {
+          "item": "half salmon roll + mango + blueberries + keto wrap dough + dried banana",
+          "kcal": 834
+        },
+        {
+          "item": "4 QP patties",
+          "kcal": 880
+        },
+        {
+          "item": "200g chicken mince",
+          "kcal": 272
+        },
+        {
+          "item": "Twisted ice cream",
+          "kcal": 230
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "weight_kg": 100.05,
+      "kcal": 3382,
+      "keto": "mixed",
+      "items": [
+        {
+          "item": "50g Chtaura halloumi pack-label",
+          "kcal": 20,
+          "notes": "pack ~20; typical much higher"
+        },
+        {
+          "item": "Monster Ultra Peachy",
+          "kcal": 12
+        },
+        {
+          "item": "sashimi tray + sushi pack",
+          "kcal": 1163
+        },
+        {
+          "item": "stadium chicken+chips+ranch+Coke Zeros",
+          "kcal": 2033
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "weight_kg": 100.5,
+      "kcal": 1370,
+      "keto": "mixed",
+      "items": [
+        {
+          "item": "2 grilled lamb chops",
+          "kcal": 560
+        },
+        {
+          "item": "2 raspberry bullets + Musashi bar + Mother",
+          "kcal": 589
+        },
+        {
+          "item": "1 raspberry/choc bullet + Monster Lando Zero",
+          "kcal": 140
+        },
+        {
+          "item": "~200g Chtaura halloumi pack",
+          "kcal": 81,
+          "notes": "pack label"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "weight_kg": 101.5,
+      "kcal": null,
+      "keto": "partial",
+      "items": [
+        {
+          "item": "cappuccino + 4 bullet packs + Mother + sushi + pate + Gami wings + chips + 2 Coke Zero",
+          "kcal": null
+        }
+      ],
+      "notes": "baseline day \u2014 kcal not fully totaled"
+    }
+  ],
+  "photos_relative_to_weight_photos": [
+    "2026-09-12/chicken-chips.jpg",
+    "2026-09-12/raspberry-bullet.jpg",
+    "2026-09-12/tuna-gunkan.jpg",
+    "2026-09-12/monster-peachy.jpg",
+    "2026-09-12/sashimi-tray.jpg",
+    "2026-09-12/coke-zero.jpg",
+    "2026-09-12/sushi-pack.jpg",
+    "2026-09-12/mayo-nigiri.jpg",
+    "2026-09-11/raspberry-bullets-label.jpg",
+    "2026-09-11/musashi-or-label.jpg",
+    "2026-09-11/breakfast-1.jpg",
+    "2026-09-11/breakfast-2.jpg",
+    "2026-09-11/monster-zeroish.jpg",
+    "2026-09-10/starting-gut-side.jpg",
+    "2026-09-10/starting-gut-front.jpg"
+  ],
+  "site": "https://weightloss.michaelholborn.com",
+  "vercel_project": "weightloss",
+  "vercel_team": "stuff-stuff",
+  "notes": [
+    "Chtaura halloumi: always use pack-label calories, flag typical comparison",
+    "Chocolate bullet bags: 130 kcal each unless otherwise stated",
+    "QP patties: ~220 each no bun",
+    "Do not give medical advice on lithium/Abilify/Mounjaro"
+  ]
+}
