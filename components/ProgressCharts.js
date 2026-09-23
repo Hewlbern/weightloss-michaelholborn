@@ -179,7 +179,7 @@ export function WeeklyPanel() {
         </table>
         <p className="muted">
           Averages skip blank days, the 10 Sep baseline (items logged, kcal not totaled), and the 20 Sep weigh-in-only row.
-          23 Sep is 800 kcal so far, so the 21–23 Sep average is still open.
+          23 Sep is 1810 kcal so far, so the 21–23 Sep average is still open.
         </p>
       </div>
       <div className="card">
